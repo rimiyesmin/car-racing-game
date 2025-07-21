@@ -112,9 +112,9 @@ car-racing-game/
 
 ## 👤 Author
 
-**Md. Rohan Islam**  
-📧 `ahmedrohan920@gmail.com`  
-🌐 GitHub: [rohan-rusho](https://github.com/rohan-rusho/portfolio/blob/main/README.md)
+**Farzana Yesmin Rimi**  
+📧 `rimiyesmin24@gmail.com`  
+🌐 GitHub: [Farzana Yesmin Rimi](https://github.com/rimiyesmin)
 
 ---
 
